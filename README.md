@@ -1,6 +1,6 @@
 <h1 align="center">Salut👋, Je suis Tom Batifoulier</h1>
-- 🔭 Je travaille actuellement sur ClicLingo et PiloteModded
-- ⚒️ Administrateur Pilote Community, .gg/PILOTE
+- 🔭 Je travaille actuellement sur ClicLingo et PiloteModded<br>
+- ⚒️ Administrateur Pilote Community, .gg/PILOTE<br>
 - ⚒️ Administrateur Système PiloteModded 🔜
 
 <h3 align="left">Languages and Tools:</h3>
